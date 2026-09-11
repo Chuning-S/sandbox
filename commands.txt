@@ -43,7 +43,6 @@ git add .
 git commit -m "task (3)"
 git push
 git switch playground
-git switch playground
 git rm -r analyses/cleaning/misccleaning_adventures
 git commit -m "task (4)"
 git push
